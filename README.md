@@ -6,10 +6,9 @@ Mauricio Jesús Meraz Galeana
 
 Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: mauricio.meraz18@tectijuana.edu.mx
 
-Objetivos general
+## Objetivos general
 Objetivo. Diseñar un controlador que permita formular un protocolo de tratamiento para que un paciente con efisema (caso) presente la misma presión alveolar que un individuo sano (control)
-
-Actividades
+## Actividades
 Calcular analíticamente la función de transferencia del sistema pulmonar.
 Establecer el modelo de ecuaciones integro-diferenciales.
 Determinar el error en estado estacionario y la estabilidad del sistema en lazo abierto.
@@ -19,7 +18,8 @@ Ilustrar el cambio del ujo de aire y el volumen tidal en respuesta a las siguien
 Determinar la respuesta a la función sinusoidal [u(t) = A sin wt] en el intervalo t 2 [0;30] (segundos), en Python, Simulink y Multisim en lazo abierto y en lazo cerrado con el controlador.
 Elaborar el diagrama biológico del sistema con BioRender.com.
 Discutir los resultados obtenidos en la experimentación in silico y elaborar el reporte de la práctica
-Docente
+
+## Docente
 Dr. Paul A. Valle
 
 Posgrado en Ciencias de la Ingeniería [PCI] y Departamento de Ingeniería Eléctrica y Electrónica [DIEE], Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: paul.valle@tectijuana.edu.mx
