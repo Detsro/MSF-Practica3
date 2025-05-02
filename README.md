@@ -1,7 +1,7 @@
 # MSF-Practica3
 Modelado de Sistemas Fisiológicos. Práctica 3: Sistema Cardiovascular [Meraz18210139]
 
-Autor
+## Autor
 Mauricio Jesús Meraz Galeana
 
 Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: mauricio.meraz18@tectijuana.edu.mx
