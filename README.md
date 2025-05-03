@@ -15,18 +15,18 @@ distensibilidad arterial. Entonces, asumiendo Pa (t) como la presiÛn arterial d
 a Fa (t) como el áujo hacia la aorta o arteria pulmonar.
 ## Actividades
 
-1. Calcular analÌticamente la funciÛn de transferencia del sistema cardiovascular.
+1. Calcular analÌticamente la función de transferencia del sistema cardiovascular.
 2. Determinar el error en estado estacionario y la estabilidad del sistema en lazo abierto.
-3. Construir el diagrama de bloques como se indica en el diagrama 5.8.
-4. DiseÒar el controlador con Simulink utilizando el bloque PID Controller y la herramienta Tune para
-sintonizar los valores Ûptimos para cada una de las ganancias kP , kI y kD.
+3. Construir el diagrama de bloques como se indica en el diagrama eletrico.
+4. Diseñar el controlador con Simulink utilizando el bloque PID Controller y la herramienta Tune para
+sintonizar los valores optimos para cada una de las ganancias kP , kI y kD.
 5. Ilustrar el cambio de la presiÛn sobre la distensibilidad arterial [Pp (t)] en respuesta a la presiÛn
-arterial de entrada Pa (t). Utilice la funciÛn de entrada Uniform Random Number con la siguiente
-conÖguracion: min = 0:2 V; max = 1 V; seed = 106; Sample time = 0:5:
+arterial de entrada Pa (t). Utilice la función de entrada Uniform Random Number con la siguiente
+conÖguracion: min = 0:2 V; max = 1 V; seed = 106; Sample time = 0:5.
 6. Determinar la respuesta a la funciÛn en el intervalo t 2 [0; 15] (segundos) en Python, Simulink y
-Multisim en lazo abierto y en lazo cerrado con el control
+Multisim en lazo abierto y en lazo cerrado con el control.
 7. Elaborar el diagrama biolÛgico del sistema con BioRender.com.
-8. Discutir los resultados obtenidos en la experimentaciÛn in silico y elaborar el reporte de la pr·ctica.
+8. Discutir los resultados obtenidos en la experimentaciÛn in silico y elaborar el reporte de la práctica.
 
 ## Docente
 Dr. Paul A. Valle
