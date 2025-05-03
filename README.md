@@ -22,10 +22,10 @@ a Fa (t) como el áujo hacia la aorta o arteria pulmonar.
 sintonizar los valores optimos para cada una de las ganancias kP , kI y kD.
 5. Ilustrar el cambio de la presión sobre la distensibilidad arterial [Pp (t)] en respuesta a la presiÛn
 arterial de entrada Pa (t). Utilice la función de entrada Uniform Random Number con la siguiente
-conÖguracion: min = 0:2 V; max = 1 V; seed = 106; Sample time = 0:5.
-6. Determinar la respuesta a la funciÛn en el intervalo t 2 [0; 15] (segundos) en Python, Simulink y
+configuracion: min = 0:2 V; max = 1 V; seed = 106; Sample time = 0:5.
+6. Determinar la respuesta a la función en el intervalo t 2 [0; 15] (segundos) en Python, Simulink y
 Multisim en lazo abierto y en lazo cerrado con el control.
-7. Elaborar el diagrama biolÛgico del sistema con BioRender.com.
+7. Elaborar el diagrama biológico del sistema con BioRender.com.
 8. Discutir los resultados obtenidos en la experimentaciÛn in silico y elaborar el reporte de la práctica.
 
 ## Docente
