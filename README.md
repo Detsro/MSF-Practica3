@@ -15,7 +15,7 @@ distensibilidad arterial. Entonces, asumiendo Pa (t) como la presiÛn arterial d
 a Fa (t) como el áujo hacia la aorta o arteria pulmonar.
 ## Actividades
 
-1. Calcular analÌticamente la función de transferencia del sistema cardiovascular.
+1. Calcular analiticamente la función de transferencia del sistema cardiovascular.
 2. Determinar el error en estado estacionario y la estabilidad del sistema en lazo abierto.
 3. Construir el diagrama de bloques como se indica en el diagrama eletrico.
 4. Diseñar el controlador con Simulink utilizando el bloque PID Controller y la herramienta Tune para
