@@ -20,7 +20,7 @@ a Fa (t) como el áujo hacia la aorta o arteria pulmonar.
 3. Construir el diagrama de bloques como se indica en el diagrama eletrico.
 4. Diseñar el controlador con Simulink utilizando el bloque PID Controller y la herramienta Tune para
 sintonizar los valores optimos para cada una de las ganancias kP , kI y kD.
-5. Ilustrar el cambio de la presiÛn sobre la distensibilidad arterial [Pp (t)] en respuesta a la presiÛn
+5. Ilustrar el cambio de la presión sobre la distensibilidad arterial [Pp (t)] en respuesta a la presiÛn
 arterial de entrada Pa (t). Utilice la función de entrada Uniform Random Number con la siguiente
 conÖguracion: min = 0:2 V; max = 1 V; seed = 106; Sample time = 0:5.
 6. Determinar la respuesta a la funciÛn en el intervalo t 2 [0; 15] (segundos) en Python, Simulink y
