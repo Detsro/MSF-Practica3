@@ -8,9 +8,9 @@ Mauricio Jesús Meraz Galeana
 Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: mauricio.meraz18@tectijuana.edu.mx
 
 ## Objetivos general
-El modelo de Windkessel de cuatro elementos contiene dos elementos din·micos. Por lo tanto, se
-necesitan dos estados para describir la din·mica. El vector de estados se conforma por las variables FL (t)
-denotando el áujo a travÈs de la inercia arterial total, y la variable Pp (t) representando la presiÛn sobre la
+El modelo de Windkessel de cuatro elementos contiene dos elementos dinámicos. Por lo tanto, se
+necesitan dos estados para describir la dinámica. El vector de estados se conforma por las variables FL (t)
+denotando el flujo a traves de la inercia arterial total, y la variable Pp (t) representando la presión sobre la
 distensibilidad arterial. Entonces, asumiendo Pa (t) como la presiÛn arterial de entrada, y en consecuencia
 a Fa (t) como el áujo hacia la aorta o arteria pulmonar.
 ## Actividades
